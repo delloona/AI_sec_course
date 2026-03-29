@@ -78,7 +78,7 @@ ___
 🔘Вспомните все, что вы читали и делали на практике за две недели. Если рассматривать evaluation strategy, как процесс из трех шагов: what to measure, how to measure it, what the results mean, то какие знания и инструменты у вас уже начали появляться для каждого из этих шагов?
 
 **What to measure** -- благодаря статье
-![[Pasted image 20260329000325.png]]
+![[task_capabilities.png]]
 
 **How to measure it** -- power analysis, доверительные интервалы, кластеризованная стандартная ошибка.
 
