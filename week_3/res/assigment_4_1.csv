@@ -1,0 +1,7 @@
+config,clf_fp_rate,clf_fn_rate,clf_failure_rate,judge_fp_rate,judge_fn_rate,judge_failure_rate
+gpt-4o-mini ORIG,0.075,0.0,0.05,0.15,0.05,0.0
+gpt-4o-mini IMPROVED,0.025,0.0,0.75,0.05,0.025,0.0
+mistral:7b ORIG,0.075,0.0,0.225,0.125,0.075,0.0
+mistral:7b IMPROVED,0.025,0.0,0.75,0.025,0.025,0.0
+mistral:7b-it ORIG,0.075,0.0,0.3,0.1,0.05,0.0
+mistral:7b-it IMPROVED,0.0,0.0,1.0,0.0,0.0,0.0

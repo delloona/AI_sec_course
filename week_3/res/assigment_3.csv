@@ -1,0 +1,7 @@
+classifier,judge,clf_fp_rate,clf_fn_rate,clf_failure_rate,judge_fp_rate,judge_fn_rate,judge_failure_rate
+openai/gpt-4o-mini,ollama/mistral:7b,0.05,0.0,0.175,0.725,0.0,0.0
+openai/gpt-4o-mini,ollama/mistral:7b-instruct,0.075,0.0,0.075,0.725,0.025,0.0
+ollama/mistral:7b,openai/gpt-4o-mini,0.075,0.0,0.325,0.125,0.075,0.0
+ollama/mistral:7b,ollama/mistral:7b-instruct,0.1,0.0,0.4,0.45,0.05,0.0
+ollama/mistral:7b-instruct,openai/gpt-4o-mini,0.05,0.0,0.325,0.15,0.025,0.0
+ollama/mistral:7b-instruct,ollama/mistral:7b,0.05,0.0,0.425,0.45,0.0,0.0
