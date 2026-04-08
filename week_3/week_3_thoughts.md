@@ -4,7 +4,7 @@
 
 ### 🔘 [Holistic Evaluation of Language Models](https://openreview.net/pdf?id=iO4LZibEqW)
 
-![[pic/HELM.jpg]]
+![HELM diagram](pic/HELM.jpg "Entity diagram")
 
 [CRFM](https://crfm.stanford.edu/), Center for Research on Foundation Models — это междисциплинарная инициатива Стэнфордского института искусственного интеллекта, ориентированного на нужды человека (HAI), которая занимается foundation models и вопросами их оценки, прозрачности и воспроизводимости. Центр объединяет междисциплинарную группу преподавателей, студентов, исследователей и инженеров из 10+ кафедр Стэнфорда.
 
@@ -44,7 +44,7 @@ _______________________
 ### 🔘 [ECBD: Evidence-Centered Benchmark Design for NLP](https://arxiv.org/html/2406.08723v1)  
 Статья от исследователей из Microsoft Research, McGill University и Johns Hopkins University.
 
-![[pic/ECBD.png]]
+![ECBD diagram](pic/ECBD.png "Entity diagram")
 
 Это текст рассматривает бенчмарк, как систему решений, которая должна собирать достаточные свидетельства о наличии у модели определенной способности. Опираясь на подходы из теории тестирования, авторы раскладывают оценку на пять модулей: capability, content, adaptation, assembly, evidence. Для каждого модуля нужно не просто что-то выбрать, но и описать, обосновать и привести свидетельства, почему этот выбор вообще валиден. В статье также есть шаблон и разбор BoolQ, SuperGLUE и HELM.
 
