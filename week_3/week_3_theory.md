@@ -181,7 +181,7 @@ Ground truth: правильная метка из датасета. Она ну
 
 Blind evaluation: judge не должен видеть ground truth label во время оценки ответа classifier'а.
 
-🔗 Ссылка на ноутбук (https://github.com/Alg2338/inspect_ai/blob/main/inspect_ai_tutorial_week_3.ipynb)
+🔗 [Ссылка на ноутбук](https://github.com/Alg2338/inspect_ai/blob/main/inspect_ai_tutorial_week_3.ipynb)
 ⚡️⚡️⚡️⚡️
 
 3️⃣ Исследовательская заметка
