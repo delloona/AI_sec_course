@@ -33,4 +33,5 @@ _______
 🔘 какие red flags стоит проверять, прежде чем интерпретировать итоговый score как meaningful.
 разумно оцениваем task и process-level
 
-Отрендеренный mindmap в папке pic
+### Mindmap (kind of)
+![Mindmap](pic/mindmap.svg "Mindmap")
