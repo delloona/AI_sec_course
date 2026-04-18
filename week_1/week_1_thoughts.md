@@ -23,7 +23,7 @@
 
 🔗  [A Starter Guide For Evals](https://www.apolloresearch.ai/blog/a-starter-guide-for-evals) 
 
-Бенчмаркинг и ред тиминг, капасити и алайнмент -- разные вещи, пнятненько? А ещё есть LLM steering -- когда мы заставляем LLM делать то, что нам нужно.
+Бенчмаркинг и ред тиминг, капасити и алайнмент -- разные вещи? А ещё есть LLM steering -- когда мы заставляем LLM делать то, что нам нужно.
 
 Есть вот такой вот инструмент [Inspect AI](https://inspect.aisi.org.uk/tutorial.html) 
 
