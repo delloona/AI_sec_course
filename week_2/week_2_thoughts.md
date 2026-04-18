@@ -12,7 +12,7 @@
 Занятна идея Model Safety Evaluations vs. Contextual Safety Evaluations
 
 
-| Model Safety Evaluations                                                                                           | Contextual Safety Evaluations<br>                                                                                                                    |
+| Model Safety Evaluations                                                                                           | Contextual Safety Evaluations                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Can the model perform a specific task, whether desirable or undesirable?<br>                                       | What can a user with access to the model do?                                                                                                         |
 | How accurate and reliable are the model’s outputs?                                                                 | Does a model make it easier to access necessary information, provide previously unavailable information, or perform a specific task?                 |
